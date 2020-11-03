@@ -12,6 +12,7 @@
 		66EED21322F3735F00AD7E66 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66EED21122F3735F00AD7E66 /* Main.storyboard */; };
 		66EED21522F3735F00AD7E66 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 66EED21422F3735F00AD7E66 /* Assets.xcassets */; };
 		66EED21822F3735F00AD7E66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 66EED21622F3735F00AD7E66 /* LaunchScreen.storyboard */; };
+		79683A8A2552017F0068B20C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 79683A892552017F0068B20C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		66EED21422F3735F00AD7E66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		66EED21722F3735F00AD7E66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		66EED21922F3735F00AD7E66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		79683A892552017F0068B20C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		66EED20122F3735F00AD7E66 = {
 			isa = PBXGroup;
 			children = (
+				79683A892552017F0068B20C /* README.md */,
 				66EED20C22F3735F00AD7E66 /* VolumeViewBug */,
 				66EED20B22F3735F00AD7E66 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				66EED21822F3735F00AD7E66 /* LaunchScreen.storyboard in Resources */,
 				66EED21522F3735F00AD7E66 /* Assets.xcassets in Resources */,
+				79683A8A2552017F0068B20C /* README.md in Resources */,
 				66EED21322F3735F00AD7E66 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
